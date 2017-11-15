@@ -40,8 +40,6 @@
     <string name="prefs_category_more">მეტი</string>
     <string name="prefs_manage_accounts">ანგარიშების მართვა</string>
     <string name="prefs_passcode">ჩაკეტვა პასკოდით</string>
-    <string name="prefs_fingerprint">ჩაკეტვა თითის ანაბეჭდით</string>
-    <string name="prefs_fingerprint_notsetup">თითის ანაბეჭდები არ დაყენებულა.</string>
     <string name="prefs_expert_mode">ექპერტ-რეჟიმი</string>
     <string name="prefs_show_hidden_files">დამალული ფაილების ჩვენება</string>
     <string name="prefs_log_delete_history_button">ისტორიის წაშლა</string>
@@ -591,9 +589,6 @@
     <string name="whats_new_ipv6_content">ახლა მუშაობს კარგად სერვერებთან, რომლებიც მხარს უჭერენ IPv6-ს და ამავე დროს მოიხმარენ IPv4-საც.</string>
 
     <string name="whats_new_skip">გამოტოვება</string>
-
-    <string name="fingerprint_scan_finger">გთხოვთ დაასკანიროთ თქვენი თითი</string>
-    <string name="fingerprint_unknown">თითი ვერ იქნა ამოცნობილი</string>
 
     <!-- User information -->
     <string name="user_info_email">ელ-ფოსტა</string>
